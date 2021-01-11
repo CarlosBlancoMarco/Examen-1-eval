@@ -1,0 +1,51 @@
+body{
+    background-color: goldenrod
+}
+h3.centro{
+    text-align: center;
+    color: white;
+}
+p.centrado{
+    text-align: center;
+    
+    background-color: blanchedalmond;
+}
+section.blanco{
+    background-color: white;
+}
+p.azul{
+    color: blue;
+}
+p.rojo{
+    color: red;
+}
+img.derecha{
+    float: right;
+}
+img.izquierda{
+    float: left;
+}
+section.fondo{
+    background-color: cadetblue;
+}
+footer.pie{
+    background-color: sienna;
+    text-align: center;
+}
+table.tabla{
+   
+    border-color: black;
+    background-color: white;
+   
+}
+th.borde{
+    border-color: blue;
+}
+hr.fondo{
+    background-color: blue;
+    
+}
+hr.fondo1{
+    background-color: red;
+}
+
